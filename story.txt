@@ -1,1 +1,1 @@
-A long time ago, in a galaxy far, far away 1234567
+Write some text in story.txt
